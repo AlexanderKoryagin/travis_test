@@ -10,4 +10,4 @@ class Hello(object):
 
 
 h = Hello()
-print h.a
+print(h.a)
